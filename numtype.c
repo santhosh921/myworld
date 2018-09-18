@@ -5,9 +5,9 @@ int n;
 printf("Input:");
 scanf("%d",&n);
 if(n>0)
-printf("positive");
+printf("\nPositive");
 else if(n==0)
 printf("zero");
 else
-printf("negative");
+printf("\nNegative");
 }
