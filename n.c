@@ -12,6 +12,6 @@ if(n>0)
   printf("\nOdd");
 }
 else
-printf("\nInvalid");
+printf("\ninvalid");
 }
   
