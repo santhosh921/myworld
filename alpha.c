@@ -6,7 +6,7 @@ void main()
 char c;
 printf("\nInput:");
 scanf("%c",c);
-if(isAlpha(c))
+ if( (c>='a' && c<='z') || (c>='A' && c<='Z'))
 {
   if((c=='a')||(c=='e')||(c=='i')||(c=='o')||(c=='u'))
   printf("vowle");
