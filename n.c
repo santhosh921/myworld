@@ -2,7 +2,7 @@
 void main()
 {
 int n;
-printf("\nInput:)
+printf("\nInput:")
 scanf("%d",&n);
 if(n>0)
 {
@@ -12,7 +12,7 @@ if(n>0)
   printf("\nOdd");
 }
 else
-printf("\ninvalid");
+printf("\nInvalid");
 getch();
 }
   
