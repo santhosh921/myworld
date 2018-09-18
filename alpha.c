@@ -1,6 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
-#include<string.h>
 void main()
 {
 char c;
@@ -15,5 +13,4 @@ scanf("%c",c);
 }
 else
 printf("\ninvalid");
-getch();
 }
